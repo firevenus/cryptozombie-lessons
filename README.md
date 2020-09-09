@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/loomnetwork/cryptozombie-lessons)
+
 # CryptoZombies - Content Localization
 
 This repository is used to translate CryptoZombies to other languages.
